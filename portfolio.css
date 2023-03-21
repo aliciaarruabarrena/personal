@@ -1,0 +1,31 @@
+h2 {
+	font-family: Verdana;
+	font-size: 50px;
+	text-align: center;
+	color: pink;
+	border-style: solid;
+	border-width: 3px;
+	border-left-width : 10px;
+	border-left-style : solid;
+	border-color: black;
+}
+img{
+	display: block;
+	margin: auto;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	text-align: center;
+	display: block;
+	width: 300px;
+	height: auto 500/233;
+}
+video{
+	display: block;
+	margin: auto;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	text-align: center;
+	display: block;
+	width: 400px;
+	height: auto 400/233;	
+}
